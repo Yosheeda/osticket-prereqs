@@ -55,13 +55,6 @@ Once inside, I adjust the Resource Group settings as I see fit for this project.
 </p>
 <br />
 
-<p>
-<img src="https://imgur.com/tAdNuUF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Success! We have a Resource Group for osTicket.
-</p>
-<br />
 
  <h3 align="center">CREATE WINDOWS VIRTUAL MACHINE</h3>
   </p>
