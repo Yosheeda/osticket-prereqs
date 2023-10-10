@@ -88,7 +88,7 @@ Once we see "Validation passed", we click "create" and will officially have our 
 
 <h2>Installation Steps</h2>
 <p>
-<img src="https://imgur.com/hANSM9O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LDuI7xG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Plug in to your Virtual Machine via Remote Desktop
@@ -96,7 +96,7 @@ Plug in to your Virtual Machine via Remote Desktop
 <br />
 
 <p>
-<img src="https://imgur.com/9rqWp9e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Lep0NOA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Install / Enable IIS in Windows
@@ -104,7 +104,7 @@ Install / Enable IIS in Windows
 <br />
 
 <p>
-<img src="https://imgur.com/CuHqsGa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PlErCcd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Download and Install PHP Manager for IIS
@@ -112,7 +112,7 @@ Download and Install PHP Manager for IIS
 <br />
 
 <p>
-<img src="https://imgur.com/8NhHMWs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9QHHRml.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Install the rewite module.
@@ -120,7 +120,7 @@ Install the rewite module.
 <br />
 
 <p>
-<img src="https://imgur.com/OKWTJFX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/paM884d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Download C++ redistributable
@@ -129,7 +129,7 @@ Download C++ redistributable
 
 
 <p>
-<img src="https://imgur.com/dY9HjCY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/03MgAfC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Download MySQL Server 5.5
@@ -139,8 +139,8 @@ Download MySQL Server 5.5
  <h3 align="center">INSTALL osTicket v.1.15.8</h3>
 
 <p>
-<img src="https://imgur.com/byt01cb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/CEj9YmJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XiFPqQ0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/n4SwVnh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 </p>
 <p>
@@ -153,7 +153,7 @@ Download MySQL Server 5.5
 </h3>
 
 <p>
-<img src="https://imgur.com/5zZd7Kt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/k8q5urI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Go to sites -> Default -> osTicket
@@ -162,7 +162,7 @@ Go to sites -> Default -> osTicket
 
 
 <p>
-<img src="https://imgur.com/5jbUL8R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 On the right, click “Browse *:80”.
@@ -173,8 +173,9 @@ On the right, click “Browse *:80”.
 <h3 align="center">Enable Extensions in IIS: Note that some extensions are not enabled
 </h3>
 <p>
-<img src="https://imgur.com/DXIvq2p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/ANhJDMW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>     
+<img src="https://i.imgur.com/wE7Jy3O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GPfxlGz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CoV1L4s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>     
 </p>
 <p>
 Go back to IIS, sites -> Default -> osTicket
@@ -186,7 +187,7 @@ Go back to IIS, sites -> Default -> osTicket
 
 
 <p>
-<img src="https://imgur.com/ABBtJaH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kn7Siv7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Click “Enable or disable an extension”
@@ -203,7 +204,7 @@ Enable: php_opcache.dll
 <h3 align="center">Refresh the osTicket site in your browser, observe the changes
 </h3>
 <p>
-<img src="https://imgur.com/beT55Bh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/cON6bBE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -212,7 +213,7 @@ Enable: php_opcache.dll
 <h3 align="center">Rename########
 </h3>
 <p>
-<img src="https://imgur.com/sXujf2j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fiIdl2c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
@@ -225,7 +226,7 @@ To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 <br />
 
 <p>
-<img src="https://imgur.com/mDTZUHK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZEXIQXZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Disable inheritance -> Remove All:
@@ -233,8 +234,8 @@ Disable inheritance -> Remove All:
 <br />
 
 <p>
-<img src="https://imgur.com/Fiqza0y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/fkdtJsF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<img src="https://i.imgur.com/IFzgnxr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Au864kD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
 New Permissions -> Everyone -> All
@@ -247,10 +248,9 @@ New Permissions -> Everyone -> All
 </p>
 <p>
 	<img src="https://i.imgur.com/rvMvlNC.png" height="75%" width="100%" alt="continue osTicket setup"/>
-	<img src="https://imgur.com/DrQcEB9.png" height="75%" width="100%" alt="osTicket settings"/>
-Name Helpdesk.
+	
 
-Default email (receives email from customers):</p>
+
 <br />
 <br />
 <h3 align="center">Download and Install HeidiSQL</h3>
@@ -322,7 +322,7 @@ Delete: C:\inetpub\wwwroot\osTicket\setup:
 <h3 align="center">Login to the osTicket Admin Panel (http://localhost/osTicket/scp/login.php)</h3>
 <br />
 <p>
-	<img src="https://i.imgur.com/zklvv8K.png" height="75%" width="100%" alt="admin panel"/>
+	<img src="https://i.imgur.com/n4qSgi3.png" height="75%" width="100%" alt="admin panel"/>
 </p>
 <br />
 <br />
