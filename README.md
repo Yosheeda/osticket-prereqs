@@ -68,8 +68,8 @@ Once inside the Virtual Machines tab, we click the "+ Create" button and then cl
 <br />
 
 <p>
-<img src="https://imgur.com/ZmDO4wP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/0L0mir6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<img src="https://i.imgur.com/EgUaEGQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QDIOara.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
 Here in the "Basics" tab we are simply setting up base settings for our VM such as the type of Image we want, Region, security, size, and the administrator account so we can access the VM. We now click the "Review + create" button at the bottom to finish up creating our VM.
@@ -77,7 +77,7 @@ Here in the "Basics" tab we are simply setting up base settings for our VM such 
 <br />
 
 <p>
-<img src="https://imgur.com/L7ywLmC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aLkLuHF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Once we see "Validation passed", we click "create" and will officially have our Windows VM.
