@@ -104,7 +104,7 @@ Install / Enable IIS in Windows
 <br />
 
 <p>
-<img src="https://i.imgur.com/PlErCcd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vPGvH0Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Download and Install PHP Manager for IIS
@@ -174,7 +174,7 @@ On the right, click “Browse *:80”.
 </h3>
 <p>
 <img src="https://i.imgur.com/wE7Jy3O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/GPfxlGz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/12oUnWb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/CoV1L4s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>     
 </p>
 <p>
@@ -187,7 +187,7 @@ Go back to IIS, sites -> Default -> osTicket
 
 
 <p>
-<img src="https://i.imgur.com/kn7Siv7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/s50wrx8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Click “Enable or disable an extension”
@@ -234,7 +234,7 @@ Disable inheritance -> Remove All:
 <br />
 
 <p>
-<img src="https://i.imgur.com/IFzgnxr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yar6kTN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/Au864kD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
@@ -322,7 +322,7 @@ Delete: C:\inetpub\wwwroot\osTicket\setup:
 <h3 align="center">Login to the osTicket Admin Panel (http://localhost/osTicket/scp/login.php)</h3>
 <br />
 <p>
-	<img src="https://i.imgur.com/n4qSgi3.png" height="75%" width="100%" alt="admin panel"/>
+	<img src="https://i.imgur.com/J8y9OoF.png" height="75%" width="100%" alt="admin panel"/>
 </p>
 <br />
 <br />
