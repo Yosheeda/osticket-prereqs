@@ -68,8 +68,8 @@ Once inside the Virtual Machines tab, we click the "+ Create" button and then cl
 <br />
 
 <p>
-<img src="https://i.imgur.com/EgUaEGQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/QDIOara.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<img src="https://github.com/Yosheeda/test-osticketprereq/blob/main/basics.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yosheeda/test-osticketprereq/blob/main/basics1.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
 Here in the "Basics" tab we are simply setting up base settings for our VM such as the type of Image we want, Region, security, size, and the administrator account so we can access the VM. We now click the "Review + create" button at the bottom to finish up creating our VM.
@@ -77,7 +77,7 @@ Here in the "Basics" tab we are simply setting up base settings for our VM such 
 <br />
 
 <p>
-<img src="https://i.imgur.com/aLkLuHF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yosheeda/test-osticketprereq/blob/main/oncewesee.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Once we see "Validation passed", we click "create" and will officially have our Windows VM.
@@ -88,7 +88,7 @@ Once we see "Validation passed", we click "create" and will officially have our 
 
 <h2>Installation Steps</h2>
 <p>
-<img src="https://i.imgur.com/LDuI7xG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yosheeda/test-osticketprereq/raw/main/1.PlugintoyourVirtualMachineviaRemoteDesktop.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Plug in to your Virtual Machine via Remote Desktop
@@ -96,7 +96,7 @@ Plug in to your Virtual Machine via Remote Desktop
 <br />
 
 <p>
-<img src="https://i.imgur.com/Lep0NOA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yosheeda/test-osticketprereq/raw/main/2.InstallEnableIISinWindows.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Install / Enable IIS in Windows
@@ -104,7 +104,7 @@ Install / Enable IIS in Windows
 <br />
 
 <p>
-<img src="https://i.imgur.com/vPGvH0Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yosheeda/test-osticketprereq/raw/main/3.DownloadandInstallPHPManagerforIIS.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Download and Install PHP Manager for IIS
@@ -112,7 +112,7 @@ Download and Install PHP Manager for IIS
 <br />
 
 <p>
-<img src="https://i.imgur.com/9QHHRml.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yosheeda/test-osticketprereq/raw/main/4.Installtherewitemodule.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Install the rewite module.
@@ -120,7 +120,7 @@ Install the rewite module.
 <br />
 
 <p>
-<img src="https://i.imgur.com/paM884d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yosheeda/test-osticketprereq/raw/main/5.downloadcppredistrutable.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Download C++ redistributable
@@ -129,7 +129,7 @@ Download C++ redistributable
 
 
 <p>
-<img src="https://i.imgur.com/03MgAfC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yosheeda/test-osticketprereq/raw/main/6.Downoadmysqlserver5.5.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Download MySQL Server 5.5
@@ -139,8 +139,8 @@ Download MySQL Server 5.5
  <h3 align="center">INSTALL osTicket v.1.15.8</h3>
 
 <p>
-<img src="https://i.imgur.com/XiFPqQ0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/n4SwVnh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yosheeda/test-osticketprereq/raw/main/7.INSTALLosTicketv.1.15.81.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yosheeda/test-osticketprereq/raw/main/7.INSTALLosTicketv.1.15.82.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 </p>
 <p>
@@ -153,7 +153,7 @@ Download MySQL Server 5.5
 </h3>
 
 <p>
-<img src="https://i.imgur.com/k8q5urI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yosheeda/test-osticketprereq/raw/main/8.GotositesDefaultosTicket.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Go to sites -> Default -> osTicket
@@ -173,9 +173,8 @@ On the right, click “Browse *:80”.
 <h3 align="center">Enable Extensions in IIS: Note that some extensions are not enabled
 </h3>
 <p>
-<img src="https://i.imgur.com/wE7Jy3O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/12oUnWb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/CoV1L4s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>     
+<img src="https://github.com/Yosheeda/test-osticketprereq/blob/main/10.GobacktoIISsitesosTicket.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yosheeda/test-osticketprereq/blob/main/11.DoubleClickPHPmanager.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>     
 </p>
 <p>
 Go back to IIS, sites -> Default -> osTicket
@@ -187,7 +186,7 @@ Go back to IIS, sites -> Default -> osTicket
 
 
 <p>
-<img src="https://i.imgur.com/s50wrx8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yosheeda/test-osticketprereq/blob/main/12.ClickEnableordisableanextension.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Click “Enable or disable an extension”
@@ -204,7 +203,7 @@ Enable: php_opcache.dll
 <h3 align="center">Refresh the osTicket site in your browser, observe the changes
 </h3>
 <p>
-<img src="https://i.imgur.com/cON6bBE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yosheeda/test-osticketprereq/blob/main/13.RefreshtheosTicketSiteInYourBrowser.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </p>
@@ -213,7 +212,7 @@ Enable: php_opcache.dll
 <h3 align="center">Rename########
 </h3>
 <p>
-<img src="https://i.imgur.com/fiIdl2c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yosheeda/test-osticketprereq/blob/main/14.REname.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
@@ -226,7 +225,7 @@ To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 <br />
 
 <p>
-<img src="https://i.imgur.com/ZEXIQXZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yosheeda/test-osticketprereq/blob/main/15.DisableInheritanceRemoveAll.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Disable inheritance -> Remove All:
@@ -234,8 +233,8 @@ Disable inheritance -> Remove All:
 <br />
 
 <p>
-<img src="https://i.imgur.com/yar6kTN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/Au864kD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+<img src="https://github.com/Yosheeda/test-osticketprereq/blob/main/16.NewPermissionsEveryoneall1.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yosheeda/test-osticketprereq/blob/main/16.NewPermissionsEveryoneall2.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
 New Permissions -> Everyone -> All
